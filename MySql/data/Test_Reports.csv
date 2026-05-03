@@ -1,0 +1,16 @@
+test_id,patient_id,doctor_id,test_name,test_result,test_date,remarks
+1,1,1,ECG,Normal,2024-03-10,No issue
+2,2,2,CT scan,Minor Issue,2024-03-12,Follow-up needed
+3,3,3,X-Ray,Fracture detected,2024-03-15,Surgery required
+4,4,4,Blood Test,Normal,2024-03-16,Healthy
+5,5,4,Flu Test,Positive,2024-03-18,Medication required
+6,6,4,MRI,Normal,2024-03-20,No issue
+7,7,7,ECG,Abnormal,2024-03-21,Medication needed
+8,8,6,Skin Test,Allergy confirmed,2024-03-22,Treatment started
+9,9,8,Brain Scan,Normal,2024-03-23,Observation
+10,10,5,Blood Test,Normal,2024-03-24,Healthy
+11,11,4,General Test,Normal,2024-03-25,No issue
+12,12,2,CT scan,Minor Issue,2024-03-26,Follow-up
+13,13,6,Allergy Test,Positive,2024-03-27,Medication
+14,14,5,Flu Test,Positive,2024-03-28,Rest advised
+15,15,3,X-Ray,Minor Injury,2024-03-29,Physio needed

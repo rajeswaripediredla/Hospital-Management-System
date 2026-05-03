@@ -1,0 +1,16 @@
+patient_id,name,Age,Gender,Phone,address,blood_group,registration_date
+1,Ravi Kumar,25,Male,9876543210,Vijayawada,O+,2024-01-10
+2,Sita Devi,30,Female,9123456789,Guntur,A+,2024-01-12
+3,Amit Sharma,40,Male,9012345876,Hyderabad,B+,2024-01-15
+4,Harika,45,Female,8964578921,Guntur,A+,2024-01-11
+5,Mounika,23,Female,8654321893,Visakha Patnam,O+,2024-01-15
+6,Harish,34,Male,9012376548,Vizianagaram,B+,2024-01-16
+7,Mallesh,50,Male,7654321896,Kakinada,A-,2024-01-16
+8,Eswar,56,Male,8964573281,Warangal,O-,2024-01-22
+9,Vamsi Krishna,45,Male,6793025678,Anakapalli,AB-,2024-01-23
+10,Sri vani,67,Male,6543217890,Rajahmundry,AB+,2024-01-28
+11,Kiran,29,Male,9001122334,Tirupati,O+,2024-02-01
+12,Lakshmi,38,Male,9007788990,Nellore,B+,2024-02-03
+13,Praveen,33,Male,9008899001,Ongole,B-,2024-02-05
+14,Swapna,27,Male,9009900112,Eluru,AB-,2024-02-07
+15,Naresh,48,Male,9005566778,Kurnool,O+,2024-02-10

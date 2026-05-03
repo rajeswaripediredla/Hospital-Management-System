@@ -1,0 +1,9 @@
+﻿doctor_id,name,specialization,phone,email,department_id
+1,Dr. Reddy,Cardialogist,9087563412,reddy@gmail.com,D1
+2,Dr. Meena,Neurologist,8912345765,meena@gmail.com,D2
+3,Dr. Khan,Orthopedics,9834512879,khan@gmail.com,D3
+4,Dr. Rao,General Physician,6547890012,rao@gmail.com,D4
+5,Dr. Priya,Pediatrician,6300450024,priya@gmail.com,D5
+6,Dr. Varun,Dermatologist,7889944557,varun@gmail.com,D6
+7,Dr. Singh,Cardialogist,9668823455,singh@gmail.com,D1
+8,Dr. Patel,Neurologist,7066110122,patel@gmail.com,D2

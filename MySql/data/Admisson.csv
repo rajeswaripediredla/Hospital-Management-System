@@ -1,0 +1,7 @@
+admisson_id,patient_id,room_number,admisson_date,discharge_date,reason
+1,1,A101,2024-03-09,2024-03-12,Heart observation
+2,3,C202,2024-03-14,2024-03-20,Fracture treatment
+3,7,B303,2024-03-18,2024-03-25,High BP
+4,11,D101,2024-03-24,2024-03-26,Observation
+5,12,E202,2024-03-25,2024-03-28,Neurology care
+6,15,C303,2024-03-28,2024-04-02,Knee treatment

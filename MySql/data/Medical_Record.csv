@@ -1,0 +1,16 @@
+record_id,patient_id,doctor_id,diagnosis,treatment,prescription,record_date
+1,1,1,Heart Issue,Medication,Tablet A,2024-03-10
+2,2,2,Migraine,Pain Relief,Tablet B,2024-03-12
+3,3,3,Bone Fracture,Surgery,Painkiller,2024-03-15
+4,4,4,Fever,Medication,Paracetamol,2024-03-16
+5,5,4,Cold,Medication,Cough Syrup,2024-03-18
+6,6,,Back Pain,Physiotherapy,Pain gel,2024-03-20
+7,7,,Heart Risk,Medication,Tablet C,2024-03-21
+8,8,,Skin allergy,Ointment,Cream A,2024-03-22
+9,9,,Vertigo,Medication,Tablet D,2024-03-23
+10,10,,Fever,Medication,Paracetamol,2024-03-24
+11,11,,Checkup,Advice,None,2024-03-25
+12,12,,Migraine,Medication,Tablet B,2024-03-26
+13,13,,Allergy,Medication,Antihistamine,2024-03-27
+14,14,,Flu,Medication,Syrup,2024-03-28
+15,15,,Knee Injury,Physio,Support band,2024-03-29

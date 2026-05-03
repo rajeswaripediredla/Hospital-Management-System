@@ -1,0 +1,16 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason
+1,1,1,2024-01-10,10:00:00,Completed,Chest pain
+2,2,2,2024-01-12,11:30:10,Booked,Headache
+3,3,3,2024-01-15,09:00:00,Completed,Leg Fracture
+4,4,4,2024-01-16,12:46:08,Completed,Fever
+5,5,4,2024-01-18,10:30:23,Booked,Cold
+6,6,4,2024-03-20,10:15:00,Completed,Back pain
+7,7,7,2024-03-21,11:00:00,Booked,Chest discomfort
+8,8,6,2024-03-22,09:30:00,Completed,Skin rash
+9,9,8,2024-03-23,12:15:00,Booked,Dizziness
+10,10,5,2024-03-23,13:45:00,Completed,Fever
+11,11,4,2024-03-24,09:00:00,Completed,General checkup
+12,12,2,2024-03-26,11:30:00,Booked,Headache
+13,13,6,2024-03-27,14:00:00,Completed,Allergy
+14,14,5,2024-03-28,10:30:00,Completed,Child fever
+15,15,3,2024-03-29,09:15:00,Booked,Knee pain
