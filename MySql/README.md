@@ -41,10 +41,6 @@ This project is a database system designed to manage hospital operations such as
 3. Import CSV files
 4. Run `views.sql` and `triggers.sql`
 
-## 📊 ER Diagram
-
-(Add your ER diagram image here)
-
 ## 👩‍💻 Authors
 
 P. Rajeswari
